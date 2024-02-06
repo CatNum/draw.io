@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T12:06:45.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="xuU6IAgzJatG9EJTBhXt" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T12:14:49.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="u37wPUop_ayUx0M4HFgf" version="23.1.1" type="github">
   <diagram name="第 1 页" id="ZFVM1oqGO0mjIMO4N_CO">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-34" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="52" y="286" width="718" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-28" value="变长字段长度列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-ZWb3QV6pA8JSZCC_kc-34">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-29" value="列2数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-ZWb3QV6pA8JSZCC_kc-34">
+          <mxGeometry x="478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-30" value="列1数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-ZWb3QV6pA8JSZCC_kc-34">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-31" value="记录头信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-ZWb3QV6pA8JSZCC_kc-34">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-32" value="NULL标志位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-ZWb3QV6pA8JSZCC_kc-34">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-ZWb3QV6pA8JSZCC_kc-33" value="&lt;b&gt;...........&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-ZWb3QV6pA8JSZCC_kc-34">
+          <mxGeometry x="598" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
