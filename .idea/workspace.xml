@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3dd2e6e-f2f8-43ba-b949-ce6cfff5c15d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/interview-slice-8.Slice 面试题.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/interview/professionalKnowledge/goBasic/interview-slice-8.Slice 面试题.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-slice-8.Slice-2.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/interview/professionalKnowledge/goBasic/interview-slice-8.Slice-2.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/unfinished/map.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map_遍历.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/unfinished/map_遍历.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql-Insert-Buffer-叶子结点.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/DailyStudy/technology/MySQL/1）2.6.1.3-2.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql-Insert-Buffer-非叶子结点.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/DailyStudy/technology/MySQL/1）2.6.1.3-1.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql-行记录格式-compact格式.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/DailyStudy/technology/MySQL/2）4.3.1-1.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/云原生层次.drawio" beforeDir="false" />
-    </list>
+    <list default="true" id="f3dd2e6e-f2f8-43ba-b949-ce6cfff5c15d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\draw.io\others" />
       <recent name="D:\GoProjects\draw.io\DailyStudy\technology\MySQL" />
       <recent name="D:\GoProjects\draw.io\unfinished" />
       <recent name="D:\GoProjects\draw.io\interview\professionalKnowledge\goBasic" />
